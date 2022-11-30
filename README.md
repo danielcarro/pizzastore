@@ -1,1 +1,3 @@
-# pizzastore
+# Pizza store
+
+Javascript Project
